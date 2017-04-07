@@ -25,8 +25,8 @@ Things you may want to cover:
 ======================
 ##Setup React with rails
 
-*1 gem "react_on_rails", "~> 6"
-*2 bundle
-*3 rails generate react_on_rails:install
-*4 bundle && npm install
-*5 foreman start -f Procfile.dev
+* 1 gem "react_on_rails", "~> 6"
+* 2 bundle
+* 3 rails generate react_on_rails:install
+* 4 bundle && npm install
+* 5 foreman start -f Procfile.dev
